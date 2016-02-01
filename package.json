@@ -1,0 +1,15 @@
+{
+  "name": "wechat-js-sdk-demo",
+  "version": "1.0.0",
+  "author": "aisin",
+  "description": "Demo for Wechat JS-SDK based on Node.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "art-template": "^3.0.3",
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "wx_jsapi_sign": "^1.0.3"
+  }
+}
